@@ -60,4 +60,13 @@ html,body{
     font-weight: 600;
     padding: 10px 20px;
     color: white;
+    cursor: pointer;
+    
+}
+.cards button:hover{
+    background-color: transparent;
+    color: rgb(247, 143, 160);
+    border: 3px solid rgb(247, 143, 160);
+    
+    
 }
